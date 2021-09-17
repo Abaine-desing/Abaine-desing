@@ -1,11 +1,12 @@
-### Olá 👋 <h1>bem vindo meu nome e FranciscoAbaine</h1>
-
-<!--
-**Abaine-desing/Abaine-desing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá 👋 <h1>Bem vindo , Meu nome e FranciscoAbaine</h1>
 
 - 🔭 I’m currently working on  Mercantil Gomes como gerente de caixa.
 - 🌱 I’m currently learning git,  javascript, css3 
-- 
--->
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
+
+
