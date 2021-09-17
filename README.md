@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on  Mercantil Gomes como gerente de caixa.
 - 🌱 I’m currently learning git,  javascript, css3 
-- ❤️ Apaixonado por programação de computadores.
+- ❤️ Apaixonado por programação, e computadores.
  
 
   <div>
@@ -23,7 +23,7 @@
   
 <div> 
   
-  <a href="https://www.linkedin.com/in/francisco-gomes-0424a0220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <center><a href="https://www.linkedin.com/in/francisco-gomes-0424a0220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </center>
  
 <center><img alt="Abaine" src="https://i.pinimg.com/originals/66/f7/48/66f74846f838c149a848b8d6c848ebc1.gif"></center>
   </div>
