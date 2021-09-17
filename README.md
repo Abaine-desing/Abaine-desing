@@ -25,3 +25,5 @@
  
  
 </div>
+ <img src"https://c.tenor.com/paSN7hpqlIIAAAAd/madara-naruto-shippuden-madara.gif">
+ 
