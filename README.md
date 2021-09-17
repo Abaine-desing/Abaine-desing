@@ -23,5 +23,5 @@
   
   <a href="https://www.linkedin.com/in/francisco-gomes-0424a0220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/66/f7/48/66f74846f838c149a848b8d6c848ebc1.gif">
+<img align="center" alt="Abaine" src="https://i.pinimg.com/originals/66/f7/48/66f74846f838c149a848b8d6c848ebc1.gif">
   </div>
