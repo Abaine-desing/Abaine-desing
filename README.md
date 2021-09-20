@@ -1,7 +1,7 @@
 ### Olá 👋 <h1>Bem vindo , Meu nome e FranciscoAbaine</h1>
 
-- 🔭 I’m currently working on  Mercantil Gomes como gerente de caixa.
-- 🌱 I’m currently learning git,  javascript, css3 
+- 🔭 Atualmente, trabalho no Mercantil Gomes como gerente de caixa.
+- 🌱 Atualmente, estou aprendendo git, javascript, css3
 - ❤️ Apaixonado por programação, e computadores.
  
 
