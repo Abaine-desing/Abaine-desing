@@ -1,6 +1,6 @@
 ### Olá 👋 <h1>Bem vindo , Meu nome e FranciscoAbaine</h1>
 
-- 🔭 Atualmente, trabalho no Mercantil Gomes, e aspirante de progamação.
+- 🔭 Atualmente, trabalho no Mercantil Gomes, e como aspirante de progamação.
 - 🌱 Atualmente, estou aprendendo git, javascript, css3
 - ❤️ Apaixonado por programação, e computadores.
  
