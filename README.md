@@ -1,6 +1,6 @@
 ### Olá 👋 <h1>Bem vindo , Meu nome e FranciscoAbaine</h1>
 
-- 🔭 Atualmente, trabalho no Mercantil Gomes como gerente de caixa.
+- 🔭 Atualmente, trabalho no Mercantil Gomes, e aspirante de progamação.
 - 🌱 Atualmente, estou aprendendo git, javascript, css3
 - ❤️ Apaixonado por programação, e computadores.
  
@@ -20,8 +20,9 @@
 
  </div> 
 <div> 
-  <center><a href="https://www.linkedin.com/in/francisco-gomes-0424a0220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </center>
+  <a href="https://www.linkedin.com/in/francisco-gomes-0424a0220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/fran_abaine/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div> 
   <div>
-<center><img alt="Abaine" src="https://i.pinimg.com/originals/66/f7/48/66f74846f838c149a848b8d6c848ebc1.gif"></center>
+<img alt="Abaine" src="https://i.pinimg.com/originals/66/f7/48/66f74846f838c149a848b8d6c848ebc1.gif">
   </div>
