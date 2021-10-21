@@ -1,4 +1,4 @@
-### Olá 👋 <h1>Bem vindo , Meu nome e FranciscoAbaine</h1>
+### Olá 👋 <h1>Welcome , my name and FranciscoAbaine</h1>
 
 - 🔭 Currently, I work at Mercantil Gomes, and as a programming aspirant.
 - 🌱 I am currently learning git, javascript, css3.
