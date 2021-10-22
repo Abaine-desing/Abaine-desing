@@ -3,6 +3,8 @@
 - 🔭 Currently, I work at Mercantil Gomes, and as a programming aspirant.
 - 🌱 I am currently learning git, javascript, css3.
 - ❤️ Passionate about programming, and computers.
+- 🚲 I like to do bike trails as a sport.
+- 📚 addicted to anime and manga.
  
 
   <div>
